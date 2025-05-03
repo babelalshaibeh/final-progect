@@ -1,0 +1,40 @@
+﻿Build started 03/05/2025 05:37:26 م.
+     1>Project "I:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\المشروع النهائي العملي.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(41): error C2059: syntax error : '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(41): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(42): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(42): error C2143: syntax error : missing ';' before ','
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(43): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(43): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(43): error C2143: syntax error : missing ';' before ','
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(51): error C2059: syntax error : '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(51): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(51): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(57): error C2059: syntax error : '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(57): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(57): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(67): error C2059: syntax error : '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(67): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(68): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(68): error C2143: syntax error : missing ';' before ','
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(69): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(69): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(69): error C2143: syntax error : missing ';' before ','
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(77): error C2059: syntax error : '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(77): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(77): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(83): error C2059: syntax error : '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(83): error C2143: syntax error : missing ';' before '{'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(83): error C2143: syntax error : missing ';' before '}'
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(185): warning C4018: '>' : signed/unsigned mismatch
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(200): warning C4018: '<' : signed/unsigned mismatch
+     1>i:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\source.cpp(208): warning C4018: '>' : signed/unsigned mismatch
+     1>Done Building Project "I:\prgramming language\المشروع النهائي العملي\المشروع النهائي العملي\المشروع النهائي العملي.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.34
